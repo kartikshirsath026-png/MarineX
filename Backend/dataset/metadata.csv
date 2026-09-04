@@ -1,0 +1,6 @@
+image_name,scan_name,latitude,longitude,depth,timestamp
+marine_marine-debris-aris3k-1009.png,Sonar Test 01 - Propeller,18.9500,72.7000,18.6,2026-09-03 10:00:00
+marine_marine-debris-aris3k-1081.png,Sonar Test 02 - Chain,18.9000,72.7500,12.4,2026-09-03 10:30:00
+marine_marine-debris-aris3k-1056.png,Sonar Test 03 - Tire and Bottle,19.0000,72.6500,25.0,2026-09-03 11:00:00
+marine_marine-debris-aris3k-1176.png,Sonar Test 04 - Valve,19.1000,72.7000,30.5,2026-09-03 11:30:00
+marine_marine-debris-aris3k-12.png,Sonar Test 05 - Hook,19.1500,72.8000,22.8,2026-09-03 12:00:00
